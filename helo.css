@@ -1,0 +1,44 @@
+h1 {
+    text-align:center;
+    background-color: rgb(139, 107, 107);
+}
+h2{
+    text-align: center;
+}
+h3{
+    font-style: oblique;
+    background-color: rgb(22, 27, 24);
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: medium;
+}
+strong {
+    font-size: larger;
+}
+
+body {
+    background-color: rgb(77, 49, 103);
+}
+.imagem1 {
+    width: 200px;
+}
+.imagemcentralizada {
+ text-align: center;
+}
+
+.unicornio {
+    background-color: forestgreen
+
+}
+.brilho {
+   color: aqua;
+    font-style: italic
+}
+.lista {
+        display: inline-block;
+        padding: 5%;
+        margin-right: 10%;
+    }
