@@ -1,6 +1,6 @@
 h1 {
     text-align:center;
-    background-color: rgb(139, 107, 107);
+    background-color: rgb(129, 171, 203);
 }
 h2{
     text-align: center;
@@ -20,7 +20,7 @@ strong {
 }
 
 body {
-    background-color: rgb(77, 49, 103);
+    background-color: rgb(255, 0, 132);
 }
 .imagem1 {
     width: 200px;
@@ -29,12 +29,12 @@ body {
  text-align: center;
 }
 
-.unicornio {
-    background-color: forestgreen
+.looks {
+    background-color: rgb(222, 145, 188)
 
 }
-.brilho {
-   color: aqua;
+.moda{
+   color: rgb(199, 88, 131);
     font-style: italic
 }
 .lista {
