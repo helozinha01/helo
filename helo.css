@@ -20,7 +20,7 @@ strong {
 }
 
 body {
-    background-color: rgb(255, 0, 132);
+    background-color: rgb(143, 116, 130);
 }
 .imagem1 {
     width: 200px;
@@ -30,11 +30,11 @@ body {
 }
 
 .looks {
-    background-color: rgb(222, 145, 188)
+    background-color: rgb(230, 198, 216)
 
 }
 .moda{
-   color: rgb(199, 88, 131);
+   color: rgb(218, 167, 186);
     font-style: italic
 }
 .lista {
